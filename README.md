@@ -1,6 +1,5 @@
 # hack-430e5f5c-jipiti-rep
-<<<<<<< HEAD
-
+Hackathon team repository for Jipiti rep
 
 # Классификатор обращений с LLM
 
@@ -11,8 +10,8 @@ Python 3.10+. Для каждого обращения скрипт печата
 ## Запуск
 
 ```bash
-python -m pip install -r requirements.txt
-python classifier.py
+python3 -m pip install -r requirements.txt
+python3 classifier.py
 ```
 
 На macOS/Linux при необходимости используйте `python3` вместо `python`.
@@ -48,5 +47,5 @@ LLM учитывает смысл и отрицания; формат прове
 с имитацией API. Реальные ответы LLM не проверены: API-ключ не предоставлен.
 Правильный формат не гарантирует точность; черновики требуют проверки.
 =======
-Hackathon team repository for Jipiti rep
->>>>>>> origin/main
+
+
